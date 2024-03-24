@@ -1,0 +1,8 @@
+﻿  中国象棋.cpp
+C:\Users\77187\Desktop\EasyX_Project\中国象棋\中国象棋\中国象棋.cpp(347,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\77187\Desktop\EasyX_Project\中国象棋\中国象棋\中国象棋.cpp(356,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\77187\Desktop\EasyX_Project\中国象棋\中国象棋\中国象棋.cpp(367,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\77187\Desktop\EasyX_Project\中国象棋\中国象棋\中国象棋.cpp(378,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\77187\Desktop\EasyX_Project\中国象棋\中国象棋\中国象棋.cpp(411,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\77187\Desktop\EasyX_Project\中国象棋\中国象棋\中国象棋.cpp(419,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  中国象棋.vcxproj -> C:\Users\77187\Desktop\EasyX_Project\中国象棋\x64\Debug\中国象棋.exe
